@@ -1,5 +1,4 @@
-package com.talentbrain.em.employeemanagement;
-
+package com.talentbrain.em;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
